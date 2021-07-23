@@ -63,8 +63,6 @@ ona.updatePrice(2.3);
 stasys.updatePrice(1.5);
 // Stasys nustate nauja kilometro kaina - 1.50 Eur.
 
-console.log(jonas);
-
 jonas.ride(5);
 maryte.ride(3);
 stasys.ride(12);
