@@ -34,7 +34,6 @@ stasys.stats();
 // Stasys nuvaziavo 2 km ir uzdirbo 2.00 Eur.
 ona.stats();
 // Ona nuvaziavo 2 km ir uzdirbo 4.00 Eur.
-
 maryte.ride(13);
 stasys.ride(7);
 jonas.ride(4);
@@ -63,6 +62,8 @@ ona.updatePrice(2.3);
 // Ona nustate nauja kilometro kaina - 2.30 Eur.
 stasys.updatePrice(1.5);
 // Stasys nustate nauja kilometro kaina - 1.50 Eur.
+
+console.log(jonas);
 
 jonas.ride(5);
 maryte.ride(3);
